@@ -65,7 +65,9 @@ $ ls
 $ rm master.zip
 ````
 
-* Rename the unzipped directory adminlte:
+* Rename the unzipped directory `adminlte`. 
+To keep with convention and save typing, I simplified the directory name in 
+the 'layout_adminlte.html' file:
 
 ````
 $ mv AdminLTE-master adminlte
