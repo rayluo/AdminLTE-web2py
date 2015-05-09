@@ -22,7 +22,7 @@ $ cd lte/static
 * Download the [AdminLTE Dashboard & Control Panel Template](http://almsaeedstudio.com/preview). Assuming
 you are still in the `web2py/applications/lte/static` directory, get it from Github like this:
 
-If you don't have Curl, get it free from http://curl.haxx.se/download.html
+(If you don't have Curl, get it free from http://curl.haxx.se/download.html)fj
 
 ````
 # Copy as a zip file from Github.
@@ -36,7 +36,7 @@ $ curl -C - -LOk https://github.com/almasaeed2010/AdminLTE/archive/master.zip
 #### Warning
 AdminLTE carries a ton of demo code. It's a 6MB download. 
 
-* Confirm the file has been copied down to your directory:
+* Confirm the file `master.zip` has been copied down to your directory:
 
 ````
 $ ls
@@ -119,7 +119,7 @@ curl -C - -LOk  https://raw.githubusercontent.com/tomcam/AdminLTE-web2py/master/
 {{extend 'layout.html'}}
 ````
 
-* Replace `layout.html' with `layout_adminlte.html` so it now looks like this:
+* Replace `layout.html` with `layout_adminlte.html` so it now looks like this:
 
 ````
 {{extend 'layout_adminlte.html'}}
