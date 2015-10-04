@@ -22,7 +22,7 @@ $ cd lte/static
 * Download the [AdminLTE Dashboard & Control Panel Template](http://almsaeedstudio.com/preview). Assuming
 you are still in the `web2py/applications/lte/static` directory, get it from Github like this:
 
-(If you don't have Curl, get it free from http://curl.haxx.se/download.html)fj
+If you don't have Curl yet, get it free from http://curl.haxx.se/download.html.
 
 ````
 # Copy as a zip file from Github.
