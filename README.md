@@ -92,7 +92,7 @@ $ sudo open adminlte/starter.html
 $ sudo open adminlte/documentation/index.html
 ````
 
-Or if you have web2py's default Rocket server installed (replace the directory name lte with the name of your application):
+Or if you have web2py's default Rocket server installed (replace the directory name `lte` with the name of your application):
 
 http://127.0.0.1:8000/adminlte/static/adminlte/index.html
 
@@ -104,7 +104,7 @@ http://127.0.0.1:8000/adminlte/documentation/index.html
 
 ## Get layout_adminlte.html from Github
 
-Go to the ../views directory, then download the new layout file:
+Go to the `../views` directory, then download the new layout file:
 
 ````
 $ cd ../views
@@ -113,7 +113,7 @@ curl -C - -LOk  https://raw.githubusercontent.com/tomcam/AdminLTE-web2py/master/
 
 ## Use the new layout in a web2py project
 
-* Fire up web2py and edit the view default/index.html. Find this line (it's usually the first):
+* Fire up web2py and edit the view file `default/index.html`. Find this line (it's usually the first):
 
 ````
 {{extend 'layout.html'}}
