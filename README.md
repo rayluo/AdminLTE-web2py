@@ -57,7 +57,7 @@ This will create a directory called AdminLTE-master:
 $ ls
 403.html	500.html	css		js
 404.html	AdminLTE-master	images		master.zip
-```
+````
 
 * You can delete `master.zip` if you wish.
 
