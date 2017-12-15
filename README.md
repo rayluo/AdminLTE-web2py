@@ -1,5 +1,12 @@
 # AdminLTE-web2py: A web2py layout using the AdminLTE template
 
+## Note: We've moved
+
+This repo is now kept as an archive.
+
+It has been reworked since, and the new development is carried on in its successor,
+[web2py plugin adminlte](https://github.com/rayluo/plugin_adminlte).
+It would be easier to install/use. Please give it a try!
 
 ## How to use it
 
